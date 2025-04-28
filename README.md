@@ -140,4 +140,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by PALANI
